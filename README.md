@@ -15,5 +15,5 @@ Key Analyses
 - Assessed cytokine profiles (e.g., IL-6, TNF-alpha) relative to ApoE4 genotype
 - Explored potential immunomodulatory effects of ApoE4 in high-pathogen settings
 
-Notes
+Notes:
 Some patterns initially appeared significant in a smaller sample size but trended with increased n, consistent with exploratory findings in evolutionary immunology.
